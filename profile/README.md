@@ -2,7 +2,7 @@
 
 **The official development organization for the Synthetic Data Vault (SDV) ecosystem.**
 
-This organization is **owned and maintained by DataCebo** and contains the open-source libraries, research projects, and engineering repositories that power the SDV ecosystem.
+This organization is **owned and maintained by [DataCebo](https://www.datacebo.com)** and contains the open-source libraries, research projects, and engineering repositories that power the SDV ecosystem.
 
 ## Core Projects
 
@@ -20,6 +20,7 @@ Looking for enterprise-scale synthetic data generation?
 
 - Enterprise relational modeling
 - Automated metadata discovery
+- Synthetic data for testing software applications
 - Air-gapped and on-premises deployment
 - AI training datasets
 - Demo data generation
